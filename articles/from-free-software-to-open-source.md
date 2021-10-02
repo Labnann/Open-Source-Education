@@ -1,4 +1,4 @@
-## From Free Software to Open Source
+# From Free Software to Open Source
 
 ## Beginning of the software industry
 
