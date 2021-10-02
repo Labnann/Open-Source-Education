@@ -49,3 +49,6 @@ Linux became a reliable and efficient software build with a large community of d
 With this increasing interest, with projects switching to and trying this model, a meeting with Eric Raymond happened in the same month of February. To name the phenomenon and to avoid confusion about the term 'free' in free software, Christine Peterson suggested the word **"Open Source"** [software].
 
 Open Source was born and the [Open Source Initiative](https://opensource.org/) was created to promote this decentralized software development model and to encourage **open collaboration**.
+
+*Author : AbcSxyZ  
+Comment section : https://github.com/AbcSxyZ/Open-Source-Education/discussions/1*
