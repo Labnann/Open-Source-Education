@@ -38,11 +38,8 @@ If you want to learn or educate about open source, you're in the right place.
 
 ## Communication tools
 
-Join the hacktoberfest community on their [Discord](), we may have some discussions there.
-
-Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
-
-Use private messages if you want to chat directly (but if you can reach me publicly, it may be better !) :)
+- Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
+- Join the hacktoberfest community on their [Discord](https://discord.gg/hacktoberfest), we may have some discussions there.
 
 [Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to comment articles.
 
