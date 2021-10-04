@@ -19,6 +19,7 @@ Enjoy your Hacktoberfest
 ## List of articles
 
 - [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
+- [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
 
 ## Contribute
 
