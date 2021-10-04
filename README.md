@@ -31,12 +31,6 @@ If some typos hurt you, you can signale it, fix it through a PR. Keep in mind so
 
 Build a light & eco-friendly website ?
 
-## Hacktoberfest contributions exclusion
-
-This repo participate in the Hacktoberfest, but because it's not code related, I prefer to avoid (at least for the beginning) to count PRs for the festival & to include the `hacktoberfest` tag.
-
-If you want to learn or educate about open source, you're in the right place.
-
 ## Communication tools
 
 - Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
