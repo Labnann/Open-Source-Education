@@ -21,11 +21,16 @@ Enjoy your Hacktoberfest
 - [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
 - [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
 
+## Resources
+
+Find different books, articles and cotent related to learn on open source in the [awesome list](awesome-open-source-resources.md) !
+
 ## Contribute
 
 Multiple ways to contributes, some I may not even know, feel free to share your idea :)
 
 If you're interested by education around open source and have a good idea for an article, share your knowledge with the community !
+You can also share good resources on the [awesome list](awesome-open-source-resources.md).
 
 If some typos hurt you, you can signale it, fix it through a PR. Keep in mind some non-native english may write articles.
 
