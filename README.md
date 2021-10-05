@@ -2,7 +2,7 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-From understanding open source phenomenon to building projects in the open way !  
+From understanding open source phenomenon to contribute and build projects in the open way !  
 Pedagogical content to educate about Open Source during the Hacktoberfest 2021.  
 
 ## What's going to happen here
