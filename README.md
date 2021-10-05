@@ -45,7 +45,8 @@ to meet people on differents plateform :
 - Join the hacktoberfest community on their [Discord](https://discord.gg/hacktoberfest), we may have some discussions there.
 - Follow & discuss the project on [dev.to](https://dev.to/abcsxyz)
 
-[Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to comment articles.
+[Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to speak about articles, comments, new
+ideas or suggestion.
 
 ## Licenses ⚖️
 
