@@ -47,6 +47,7 @@ to meet people on differents plateform :
 
 [Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to speak about articles, comments, new
 ideas or suggestion.
+Propose an idea for a [next article](https://github.com/AbcSxyZ/Open-Source-Education/discussions/8). 
 
 ## Licenses ⚖️
 
