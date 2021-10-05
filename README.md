@@ -40,6 +40,7 @@ Build a light & eco-friendly website ?
 
 - Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
 - Join the hacktoberfest community on their [Discord](https://discord.gg/hacktoberfest), we may have some discussions there.
+- Follow & discuss the project on [dev.to](https://dev.to/abcsxyz)
 
 [Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to comment articles.
 
