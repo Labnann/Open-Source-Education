@@ -1,11 +1,11 @@
-# Open Source Education
+# 🖋 Open Source Education 🗝
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 From understanding open source phenomenon to contribute and build projects in the open way !  
 Pedagogical content to educate about Open Source during the Hacktoberfest 2021.  
 
-## What's going to happen here
+## What's going to happen here ❓
 
 This project is related to the [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long event to *"invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects."*
 
@@ -16,12 +16,12 @@ New content to come during the entire month, stay tuned !
 
 Enjoy your Hacktoberfest
 
-## List of articles
+## List of articles 📰
 
 - [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
 - [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
 
-## Resources
+## Resources 💾
 
 Find different books, articles and cotent related to learn on open source in the [awesome list](awesome-open-source-resources.md) !
 
@@ -36,7 +36,10 @@ If some typos hurt you, you can signale it, fix it through a PR. Keep in mind so
 
 Build a light & eco-friendly website ?
 
-## Communication tools
+## Communities 👋
+
+Whever you want some help to start to contribute in open source, want to discuss about how to maintain your repo, come
+to meet people on differents plateform :
 
 - Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
 - Join the hacktoberfest community on their [Discord](https://discord.gg/hacktoberfest), we may have some discussions there.
@@ -44,7 +47,7 @@ Build a light & eco-friendly website ?
 
 [Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to comment articles.
 
-## Licenses
+## Licenses ⚖️
 
 Articles are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Feel free to do whatever you want with it, to use, to modify, to share and even to sell it !
 
