@@ -25,7 +25,7 @@ Enjoy your Hacktoberfest
 
 Find different books, articles and content related to open source in the [awesome list](awesome-open-source-resources.md) !
 
-## Contribute
+## Contribute 🐜
 
 Multiple ways to contributes, some I may not even know, feel free to share your idea :)
 
