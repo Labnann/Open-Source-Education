@@ -18,8 +18,17 @@ Enjoy your Hacktoberfest
 
 ## List of articles
 
-- [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
+### Understand Open Source
+- [From Free Software to Open Source](/articles/from-free-software-to-open-source.md)
+- [Evolution of Free and Open Source software acceptance](/articles/evolution-foss-acceptance.md)
+
+### Build Open Source project
 - [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
+
+### Contribute to Open Source
+
+[Work in progress]
+
 
 ## Contribute
 
