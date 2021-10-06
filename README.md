@@ -27,7 +27,7 @@ Enjoy your Hacktoberfest
 
 ### Contribute to Open Source
 
-[Work in progress]
+- `git` tutorial [[Work in progress](https://github.com/AbcSxyZ/Open-Source-Education/pull/12)]
 
 ## Resources 💾
 
