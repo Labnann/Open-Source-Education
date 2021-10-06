@@ -37,8 +37,8 @@ Find different books, articles and content related to open source in the [awesom
 
 Multiple ways to contributes, some I may not even know, feel free to share your idea :)
 
-If you're interested by education around open source and have a good idea for an article, want to do one, share your knowledge with the community !
-You can also share good resources on the [awesome list](awesome-open-source-resources.md).
+If you're interested by education around open source and have a good idea for an article, want to do one, share your knowledge with the community !  
+If you know any good resources to add on the [open source awesome list](awesome-open-source-resources.md).
 
 If some typos hurt you, you can signale it, fix it through a PR. Keep in mind some non-native english may write articles.
 
