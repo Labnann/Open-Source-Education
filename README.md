@@ -1,11 +1,11 @@
-# Open Source Education
+# 🖋 Open Source Education 🗝
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-From understanding open source phenomenon to building projects in the open way !  
+From understanding open source phenomenon to contribute and build projects in the open way !  
 Pedagogical content to educate about Open Source during the Hacktoberfest 2021.  
 
-## What's going to happen here
+## What's going to happen here ❓
 
 This project is related to the [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a month-long event to *"invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects."*
 
@@ -16,7 +16,7 @@ New content to come during the entire month, stay tuned !
 
 Enjoy your Hacktoberfest
 
-## List of articles
+## List of articles 📰
 
 ### Understand Open Source
 - [From Free Software to Open Source](/articles/from-free-software-to-open-source.md)
@@ -29,31 +29,35 @@ Enjoy your Hacktoberfest
 
 [Work in progress]
 
+## Resources 💾
 
-## Contribute
+Find different books, articles and content related to open source in the [awesome list](awesome-open-source-resources.md) !
+
+## Contribute 🐜
 
 Multiple ways to contributes, some I may not even know, feel free to share your idea :)
 
 If you're interested by education around open source and have a good idea for an article, share your knowledge with the community !
+You can also share good resources on the [awesome list](awesome-open-source-resources.md).
 
 If some typos hurt you, you can signale it, fix it through a PR. Keep in mind some non-native english may write articles.
 
 Build a light & eco-friendly website ?
 
-## Hacktoberfest contributions exclusion
+## Communities 👋
 
-This repo participate in the Hacktoberfest, but because it's not code related, I prefer to avoid (at least for the beginning) to count PRs for the festival & to include the `hacktoberfest` tag.
+Whever you want some help to start to contribute in open source, want to discuss about how to maintain your repo, come
+to meet people on differents plateform :
 
-If you want to learn or educate about open source, you're in the right place.
-
-## Communication tools
-
-- Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) to speak specifically about this project !
+- Join the Open Source Education dedicated [Discord](https://discord.gg/JrGhE9QmgB) !
 - Join the hacktoberfest community on their [Discord](https://discord.gg/hacktoberfest), we may have some discussions there.
+- Follow & discuss the project on [dev.to](https://dev.to/abcsxyz)
 
-[Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to comment articles.
+[Github discussions](https://github.com/AbcSxyZ/Open-Source-Education/discussions) is enabled to speak about articles, comments, new
+ideas or suggestion.
+Propose an idea for a [next article](https://github.com/AbcSxyZ/Open-Source-Education/discussions/8). 
 
-## Licenses
+## Licenses ⚖️
 
 Articles are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Feel free to do whatever you want with it, to use, to modify, to share and even to sell it !
 

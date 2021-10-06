@@ -67,5 +67,5 @@ Open Source allow innovation to come from outside. External contributors may bri
 Conclusion of 'The Cathedral and the Bazaar'
 
 *Author : AbcSxyZ  
-Comment section : https://github.com/AbcSxyZ/Open-Source-Education/discussions/2  
+Comment section : https://github.com/AbcSxyZ/Open-Source-Education/discussions/3  
 Find link to the book in [Open Source Education resources](/awesome-open-source-resources.md).*
