@@ -31,7 +31,7 @@ Enjoy your Hacktoberfest
 
 ## Resources 💾
 
-Find different books, articles and content related to open source in the [awesome list](awesome-open-source-resources.md) !
+Find different books, content & actors related to education of open source in the [awesome list](awesome-open-source-resources.md) !
 
 ## Contribute 🐜
 
