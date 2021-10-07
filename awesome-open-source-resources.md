@@ -12,4 +12,5 @@
 - Winter of contributing / [Open Source section](https://github.com/girlscript/winter-of-contributing/tree/main/Open_Source)
 - Linux Foundation - [A Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/)
 - [MOOC Floss](https://mooc-floss.gitlab.io/mooc-floss/) - "Free software contributor masterclass"
+- [TeachingOpenSource](http://teachingopensource.org)
 - Open Source mentoring for [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021)
