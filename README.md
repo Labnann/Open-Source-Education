@@ -20,6 +20,7 @@ Enjoy your Hacktoberfest
 
 ### Understand Open Source
 - [From Free Software to Open Source](/articles/from-free-software-to-open-source.md)
+- [Business models of Free and Open Source software](/articles/business-models.md)
 - [Evolution of Free and Open Source software acceptance](/articles/evolution-foss-acceptance.md)
 
 ### Build Open Source project
