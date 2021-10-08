@@ -65,3 +65,5 @@ Hybrid models may be controversial, it may lead to strange mix of styles. It's
 important to identify the business model of a project.
 
 *Non-exhaustive list of business models, take a look at the Wikipedia page "[Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)".*
+
+*Comment section : https://github.com/AbcSxyZ/Open-Source-Education/discussions/14*
