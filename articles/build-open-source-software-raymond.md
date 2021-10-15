@@ -56,7 +56,7 @@ Collaboration is done through the Internet medium, communications tools will be 
 
 ## Open source advantage over closed source
 
-The benefits are multiple for an open source project compared to a closed project, they can vary and generalities are impossible. In the book, Raymond speak about technical advantage, an open source project may be superior by its efficiency, robustness and security. By improvement coming from a lot of actors, by stressing the program and finding bugs the quality may be superior. Bug resolution may be faster with distributed debugging, multiple person searching together, with the ability to have one person who will find the bug and another one able to fix it, which is almost impossible in for closed source software.
+The benefits are multiple for an open source project compared to a closed project, they can vary and generalities are impossible. In the book, Raymond speak about technical advantage, an open source project may be superior by its efficiency, robustness and security. By improvement coming from a lot of actors, by stressing the program and finding bugs the quality may be superior. Bug resolution may be faster with distributed debugging, multiple person searching together, with the ability to have one person who will find the bug and another one able to fix it, which is almost impossible for closed source software.
 
 > *No closed-source developer can match the pool of talent the Linux community can bring to bear on a problem. Very few could afford even to hire the more than 200 (1999: 600, 2000: 800) people who have contributed to fetchmail!*  
 'The cathedral and the Bazaar'
