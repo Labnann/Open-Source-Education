@@ -15,3 +15,4 @@
 - [TeachingOpenSource](http://teachingopensource.org)
 - Open Source mentoring for [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021)
 - [InspireZone.tech](https://inspirezone.tech/) - "Inspiring developers through online coding collaboration"
+- [Open Source Guides](https://opensource.guide/) by Github
