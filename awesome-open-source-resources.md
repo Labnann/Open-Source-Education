@@ -7,6 +7,7 @@
 ### Articles
 
 - Github - [The readme project](https://github.com/readme/) : Interview of open source actors
+- [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid 
 
 ### Projects related to open source education
 - Winter of contributing / [Open Source section](https://github.com/girlscript/winter-of-contributing/tree/main/Open_Source)
