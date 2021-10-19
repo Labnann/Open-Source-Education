@@ -8,7 +8,7 @@
 
 - Github - [The readme project](https://github.com/readme/) : Interview of open source actors
 - [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
-- [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - "Talks, blog posts, and interviews about the experience of being an open source maintainer "
+- [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 
 ### Projects related to open source education
 - Winter of contributing / [Open Source section](https://github.com/girlscript/winter-of-contributing/tree/main/Open_Source)
@@ -18,3 +18,4 @@
 - Open Source mentoring for [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021)
 - [InspireZone.tech](https://inspirezone.tech/) - "Inspiring developers through online coding collaboration"
 - [Open Source Guides](https://opensource.guide/) by Github
+- [Adoptoposs](https://adoptoposs.org/) - *"Find new (co-)maintainers for your open source software project."*
