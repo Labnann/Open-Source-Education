@@ -3,6 +3,8 @@
 ### Books
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) by Eric S. Raymond
+- [Producing Open Source Software](https://producingoss.com/) by Karl Fogël
+- [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) by Rick Falkvinge
 
 ### Articles
 
