@@ -11,7 +11,7 @@ Eric Raymond influenced widely the software industry with the essay *'The Cathed
 
 The idea of this book came by a combination of circumstance. Eric Raymond was a software developer and was involved in free software. With decades of experience, before starting his writings, he thought he knew how a software should be produce. They were some theories about it like *'The Mythical Man-Month'* from Frederick Brooks predicting that *'complexity and communication costs of a project rise  with the  square of the number of developers'*. For Eric Raymond, big software projects would necessarily need centralization to be done, like it is in proprietary and free software. Linux appear and challenged these models.
 
-Seeing this gap between theory and practice, he tried to formalize some principles inspired by the development process of Linux to apply it to one of his own project : `fetchmail`.
+Seeing this gap between theory and practice, he tried to formalize some principles inspired by the development process of Linux to apply it to one of his own project: `fetchmail`.
 With a successful experimentation, he decided to share his theory with this essay. He wrote 19 lessons about how to produce collaboratively a software.
 
 ## Lessons of *'The Cathedral and the Bazaar'*
