@@ -5,6 +5,8 @@
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) by Eric S. Raymond
 - [Producing Open Source Software](https://producingoss.com/) by Karl Fogel
 - [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) by Rick Falkvinge
+- [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
+- [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
 
 ### Articles
 
@@ -21,3 +23,4 @@
 - [InspireZone.tech](https://inspirezone.tech/) - "Inspiring developers through online coding collaboration"
 - [Open Source Guides](https://opensource.guide/) by Github
 - [Adoptoposs](https://adoptoposs.org/) - *"Find new (co-)maintainers for your open source software project."*
+- Brandeis university - [Certificate in Open Source Technology Management (OSTM)](https://www.brandeis.edu/gps/professional-development/micro-courses/ostm/index.html)
