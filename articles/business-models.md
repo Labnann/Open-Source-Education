@@ -33,7 +33,7 @@ Similar to donation, platforms are adding way to support projects like [GitHub S
 
 ### Partnership
 
-FOSS project may have funding organization as active supporter. Software used by big companies or institutions can (and should) be financially or materially supported. Giving money to core developers or recruit internally their own programmers to fix bugs, develop features, help the community... Multiple companies and states are supporting Linux. Specialized programs will be only funded by the private or public sectors, [ERPs](https://en.wikipedia.org/wiki/Enterprise_resource_planning) are a good example where users won't be individuals. [OpenCemetery](https://joinup.ec.europa.eu/collection/egovernment/solution/opencemetery) has an interest in knocking on administration doors instead of doing a crowdfunding campaign !
+FOSS project may have funding organization as active supporter. Software used by big companies or institutions can (and should) be financially or materially supported. Giving money to core developers or recruit internally their own programmers to fix bugs, develop features, help the community... Multiple companies and states are supporting Linux. Specialized programs will be only funded by the private or public sectors, [ERPs](https://en.wikipedia.org/wiki/Enterprise_resource_planning) are a good example where users won't be individuals. [OpenCemetery](https://joinup.ec.europa.eu/collection/egovernment/solution/opencemetery) has an interest in knocking on administration doors instead of doing a crowdfunding campaign!
 
 In the future, companies and institutions will probably be more supportive to used open source software.
 
@@ -66,4 +66,4 @@ important to identify the business model of a project.
 
 *Non-exhaustive list of business models, take a look at the Wikipedia page "[Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)".*
 
-*Comment section : https://github.com/AbcSxyZ/Open-Source-Education/discussions/14*
+*Comment section: https://github.com/AbcSxyZ/Open-Source-Education/discussions/14*
