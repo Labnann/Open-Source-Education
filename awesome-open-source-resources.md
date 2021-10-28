@@ -24,3 +24,5 @@
 - [Open Source Guides](https://opensource.guide/) by Github
 - [Adoptoposs](https://adoptoposs.org/) - *"Find new (co-)maintainers for your open source software project."*
 - Brandeis university - [Certificate in Open Source Technology Management (OSTM)](https://www.brandeis.edu/gps/professional-development/micro-courses/ostm/index.html)
+- [France Université Numérique MOOCs](https://www.fun-mooc.fr/en/)
+- [Ecole du logiciel libre](https://e2li.org/) (E2L)
